@@ -1,0 +1,143 @@
+Computer
+
+Applications
+- Davici Resolve
+- Discord
+- Gimp 2
+- ProtonVPN
+- Visual Studio
+- VS Code
+- WSL
+
+Games
+- Citra
+- FiveM
+- Minecraft
+
+Languages
+- Go
+- Java
+- Fust
+- Scala
+
+CLI
+- AWS
+- Git
+
+*************************************
+
+https://www.pandora.com/
+https://open.spotify.com/
+https://www.youtube.com/
+
+https://getaegis.app/
+https://www.capitalone.com/
+https://cash.app/
+https://offerup.com/
+https://www.waze.com/live-map/
+https://wise.com/
+
+https://www.mozilla.org/en-US/firefox/developer/
+
+https://discord.com/
+https://www.signal.org/
+https://teams.microsoft.com/
+https://web.whatsapp.com/
+
+https://www.facebook.com/
+https://www.instagram.com/
+https://www.reddit.com/
+https://twitter.com/
+
+https://blokada.org/
+com.pixelapestudios.bluk
+com.supercell.clashroyale
+com.cxinventor.file.explorer
+com.dsemu.drastic
+
+firefox nightly
+org.mozilla.fenix
+
+Fluids & Sounds Simulation LWP
+com.MKGames.FluidsSounds
+
+HereWeGo
+com.here.app.wego
+mobi.ifunny
+
+lichess
+org.lichess.mobileapp
+com.waze
+
+Microsoft SwiftKey Keyboard
+com.touchtype.swiftkey
+
+Musician
+net.scarlettsystems.app.scarlettmusician
+
+My Boy!
+com.fastemulator.gba
+
+Nihilumbra
+com.BeautiFunGames.Nihilumbra
+
+Notion
+notion.id
+
+Notion Mobile
+com.presonus.notionmobile
+
+io.voodoo.paper2
+
+Peach Goma
+com.peachgoma.animated
+
+Signal
+org.thoughtcrime.securesms
+
+Sketchbook
+com.adsk.sketchbook
+
+Spaceflight Simulator
+com.StefMorojna.SpaceflightSimulator
+
+That Level Again
+ru.iamtagir.game.android
+
+Turbopop Flight Simulator
+com.AXgamesoft.TurbopropFS
+
+Voice
+com.google.android.apps.googlevoice
+
+wallet
+com.google.android.apps.walletnfcrel
+
+wise
+com.transferwise.android
+
+Youtube
+https://vanced.me/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
