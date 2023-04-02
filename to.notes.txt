@@ -21,6 +21,15 @@ Applications
 - Visual Studio Code
 - WSL
 
+Browser Extensions
+- daily.dev
+- adblock
+- duckduckgo privacy essentials
+- httpseverywhere
+- metamask
+- ublock origin
+- vertical tree tabs
+
 Games
 - Citra
 - FiveM
