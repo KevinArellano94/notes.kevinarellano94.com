@@ -1,27 +1,47 @@
 Computer
 
 Applications
+- Blender
+- Corsair iCue
 - Davici Resolve
 - Discord
+- Firefox Developer Edition
 - Gimp 2
+- Logitech G Hub
+- NVidia
+- Notion
+- OBS Studio
 - ProtonVPN
+- Signal
+- Steam
+- Streamlabs
+- uTorrent
+- VLC Media Player
 - Visual Studio
-- VS Code
+- Visual Studio Code
 - WSL
 
 Games
 - Citra
 - FiveM
+- Freeways
+- GTA V
+- League of Legends
 - Minecraft
+- Omori
+- Rainbow Six Siege
 
 Languages
 - Go
 - Java
-- Fust
+- Node.js
+- Python
+- Rust
 - Scala
 
 CLI
 - AWS
+- Docker
 - Git
 
 *************************************
